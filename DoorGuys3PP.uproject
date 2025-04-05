@@ -12,11 +12,11 @@
 			]
 		},
 		{
-			"Name": "MultiUserClient",
+			"Name": "RLPlugin",
 			"Enabled": true
 		},
 		{
-			"Name": "RLPlugin",
+			"Name": "MultiUserClient",
 			"Enabled": true
 		}
 	]
