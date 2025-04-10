@@ -12,12 +12,13 @@
 			]
 		},
 		{
-			"Name": "RLPlugin",
+			"Name": "MultiUserClient",
 			"Enabled": true
 		},
 		{
-			"Name": "MultiUserClient",
-			"Enabled": true
+			"Name": "CC_ControlRig",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d84abf9ebafe40f4b9676142c3cabb66"
 		}
 	]
 }
