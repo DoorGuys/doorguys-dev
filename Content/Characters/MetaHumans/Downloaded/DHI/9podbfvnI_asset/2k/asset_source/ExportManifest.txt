@@ -1,0 +1,11 @@
+{
+	"metaHumanNames": [
+		"Zack"
+	],
+	"exportToolVersion": "4.1.2-39981827",
+	"exportAssetsKind": [
+		"Source"
+	],
+	"exportQuality": "Cinematic",
+	"exportedAt": "2025.04.10-03.12.27"
+}
